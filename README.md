@@ -90,7 +90,6 @@ My technology brand focused on building creative digital solutions.
 ## 🏆 Certifications & Achievements
 
 - 🎓 Bharathidasan University – Mobile App & Web Development Certification Program
-- 🏅 See&Say Symposium – Game Coordinator Certificate
 
 ---
 
