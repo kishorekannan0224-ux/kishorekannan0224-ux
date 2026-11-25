@@ -110,3 +110,6 @@ My technology brand focused on building creative digital solutions.
 **A product by DeltaCode**
 
 ⭐ Thanks for visiting my GitHub profile!S
+## 🐍 My Contribution Activity
+
+![Contribution Snake](https://raw.githubusercontent.com/kishorekannan0224-ux/kishorekannan0224-ux/output/github-snake-dark.svg)
